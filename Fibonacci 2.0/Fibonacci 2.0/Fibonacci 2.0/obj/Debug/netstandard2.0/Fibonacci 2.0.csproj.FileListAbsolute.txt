@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\Fibonacci 2.0\Fibonacci 2.0\Fibonacci 2.0\bin\Debug\netstandard2.0\Fibonacci 2.0.deps.json
+C:\Users\Asus\source\repos\Fibonacci 2.0\Fibonacci 2.0\Fibonacci 2.0\bin\Debug\netstandard2.0\Fibonacci 2.0.dll
+C:\Users\Asus\source\repos\Fibonacci 2.0\Fibonacci 2.0\Fibonacci 2.0\bin\Debug\netstandard2.0\Fibonacci 2.0.pdb
+C:\Users\Asus\source\repos\Fibonacci 2.0\Fibonacci 2.0\Fibonacci 2.0\obj\Debug\netstandard2.0\Fibonacci 2.0.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Fibonacci 2.0\Fibonacci 2.0\Fibonacci 2.0\obj\Debug\netstandard2.0\Fibonacci 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Fibonacci 2.0\Fibonacci 2.0\Fibonacci 2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Asus\source\repos\Fibonacci 2.0\Fibonacci 2.0\Fibonacci 2.0\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Asus\source\repos\Fibonacci 2.0\Fibonacci 2.0\Fibonacci 2.0\obj\Debug\netstandard2.0\Fibonacci 2.0.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Fibonacci 2.0\Fibonacci 2.0\Fibonacci 2.0\obj\Debug\netstandard2.0\Fibonacci 2.0.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Fibonacci 2.0\Fibonacci 2.0\Fibonacci 2.0\obj\Debug\netstandard2.0\Fibonacci 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Fibonacci 2.0\Fibonacci 2.0\Fibonacci 2.0\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Asus\source\repos\Fibonacci 2.0\Fibonacci 2.0\Fibonacci 2.0\obj\Debug\netstandard2.0\Fibonacci 2.0.dll
+C:\Users\Asus\source\repos\Fibonacci 2.0\Fibonacci 2.0\Fibonacci 2.0\obj\Debug\netstandard2.0\refint\Fibonacci 2.0.dll
+C:\Users\Asus\source\repos\Fibonacci 2.0\Fibonacci 2.0\Fibonacci 2.0\obj\Debug\netstandard2.0\Fibonacci 2.0.pdb
+C:\Users\Asus\source\repos\Fibonacci 2.0\Fibonacci 2.0\Fibonacci 2.0\obj\Debug\netstandard2.0\ref\Fibonacci 2.0.dll
